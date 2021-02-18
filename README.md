@@ -4,6 +4,7 @@ enverdad no es una historia pero !TIENE UN BLOGPOUS y bueno etsa es una tarea pa
 
 echo por un estudiante de platzi
 que puso una imagen de una nutria para un ejercisio
+wey esto es raro
 
 
 un amable recordatorio **no te tomes en serio este repositorio**
